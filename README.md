@@ -58,4 +58,13 @@ Returned Notes:
 - Ohm’s Law
 - Kirchhoff’s Voltage Law
 
+  ## Setup Instructions
+1. Clone the repository
+2. Create a virtual environment
+3. Install dependencies using `pip install -r requirements.txt`
+4. Update Endee API credentials in `config.py`
+5. Run `ingest_notes.py` to store embeddings
+6. Run `search_notes.py` to perform semantic search
+
+
 

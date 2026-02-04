@@ -1,3 +1,8 @@
+"""
+This script performs semantic search on stored study notes
+using vector similarity from Endee.
+"""
+
 def generate_query_embedding(query):
     return [0.0] * 768
 

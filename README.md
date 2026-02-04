@@ -51,3 +51,11 @@ once access is granted.
 - Web interface for students
 - Support for PDF notes
 
+## How It Works (Example)
+Query: "laws related to electrical circuits"
+
+Returned Notes:
+- Ohm’s Law
+- Kirchhoff’s Voltage Law
+
+

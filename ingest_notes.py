@@ -1,3 +1,8 @@
+"""
+This script ingests study notes, generates embeddings,
+and stores them in the Endee vector database.
+"""
+
 def load_notes(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return f.read().split("\n\n")
